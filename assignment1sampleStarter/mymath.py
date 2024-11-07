@@ -8,7 +8,7 @@ def multiply_three(a, b, c):
     return a/b*c
 
 def divide_three(a, b, c):
-    return a*b*c
+    return a*b*d
 
 def power(a, b):
     return a*b
