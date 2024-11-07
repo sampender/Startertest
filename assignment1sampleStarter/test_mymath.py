@@ -14,3 +14,5 @@ def test_mymath_divide():
 
 def test_mymath_power():
     assert mymath.power(2, 3) == 8
+
+    why wont you eok
